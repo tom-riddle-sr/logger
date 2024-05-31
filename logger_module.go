@@ -1,7 +1,5 @@
 package loggermodule
 
-//
-
 import (
 	"github.com/gofiber/fiber/v2"
 	"github.com/sirupsen/logrus"
