@@ -1,4 +1,4 @@
-module github.com/tom-riddle-sr/logger_module
+module github.com/tom-riddle-sr/logger/middleware/logger
 
 go 1.22.2
 
